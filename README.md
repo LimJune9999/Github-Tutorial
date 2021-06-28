@@ -65,4 +65,4 @@ System.out.println("Hello, Honeymon");
   
  ~~cancelline~~ 
  
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fanuaccounting%2F&psig=AOvVaw141DwhwVOWrf5V_0UHrlDU&ust=1624930312170000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIjFgKOXufECFQAAAAAdAAAAABAD"안동대 마크")
+![Alt text] (https://www.andong.ac.kr/data/menuModule/h1/campusmap_big.jpg "안동대 마크")
