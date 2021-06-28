@@ -52,6 +52,6 @@ System.out.println("Hello, Honeymon");
 ==============================================
 
 
-[googlelink]: https://google.com "Go google"
+<https://google.com> 
 
 <http://naver.com/>
