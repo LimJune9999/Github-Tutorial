@@ -65,4 +65,4 @@ System.out.println("Hello, Honeymon");
   
  ~~cancelline~~ 
  
-![Alt text] (https://www.andong.ac.kr/data/menuModule/h1/campusmap_big.jpg "안동대 마크")
+![Alt text](https://www.andong.ac.kr/data/menuModule/h1/campusmap_big.jpg "Optional title")
