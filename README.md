@@ -73,3 +73,7 @@ System.out.println("Hello, Honeymon");
 | 2 | *짜장형* | 32 | 2/23|
 | 3 | 뿡뿡이 | 51 | ~~9/13~~ |
 
+[참고 사이트]
+
+.[Text to display].[identifier] will display a link.
+.[identifier]:https://www.andong.ac.kr/main/index.do
