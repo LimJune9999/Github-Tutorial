@@ -75,6 +75,6 @@ System.out.println("Hello, Honeymon");
 
 [참고 사이트]
 
-.[Andong Univ].[identifier] will display a link.
+[Andong Univ][identifier] will display a link.
 
-.[identifier]: https://www.andong.ac.kr/main/index.do
+[identifier]:https://www.andong.ac.kr/main/index.do
