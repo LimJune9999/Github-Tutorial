@@ -66,3 +66,9 @@ System.out.println("Hello, Honeymon");
  ~~cancelline~~ 
  
 ![Alt text](https://www.andong.ac.kr/data/menuModule/h1/campusmap_big.jpg "안동대 조감도")
+
+| | 이름 | 나이 | 생일 |
+| :-: | :-: | -: | :- |
+| 1 | 홍길동 | 23 | 4/2 |
+| 2 | *짜장형* | 32 | 2/23|
+| 3 | 뿡뿡이 | 51 | 9/13 |
